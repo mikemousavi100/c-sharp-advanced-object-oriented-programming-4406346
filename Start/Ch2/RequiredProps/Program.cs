@@ -7,6 +7,7 @@ Employee emp2 = new Employee() {FirstName="Jane", LastName="Deaux", ID=2, Depart
 Employee emp3 = new Employee() {FirstName="Jim", LastName="Dough", ID=3, Department="Marketing"};
 
 // TODO: Construct an object using the constructor
+Employee emp4 = new Employee("Mike", "Mousavi", 4, "Marketing");
 
 
 Console.WriteLine(emp1);
