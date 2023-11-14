@@ -10,3 +10,5 @@ Console.WriteLine(m);
 m.SoundHorn();
 
 // TODO: Instantiate the base class
+// Vehicle v = new Vehicle();
+// Console.WriteLine(v);
